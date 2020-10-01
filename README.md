@@ -7,3 +7,5 @@
 [Ejemplo Patrones Secuenciales](https://github.com/Valeriasolisa/MineriadeDatos/blob/master/Ejemplo_PatronesSecuenciales_002.py)
 
 [Ejercicio 1](https://github.com/AlejandroNoriega/Mineria-de-Datos-/blob/master/Ejercicios1_Equipo7_Gpo002.pdf)
+
+[Resumen de las tecnicas de mineria de datos](https://github.com/AlejandroNoriega/Mineria-de-Datos-/blob/master/Resumen_MiguelNoriega-PATRONES%20SECUENCIALES_1798528.pdf) 
