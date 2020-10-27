@@ -16,4 +16,4 @@
 
 [Ejercicio Python Basico 1](https://github.com/AlejandroNoriega/Mineria-de-Datos-/blob/master/PythonBasico_1798528.ipynb)
 
-[Avanze 1 PIA ](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/Avance1-PIA_3_002.pdf)
+[Avance 1 PIA ](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/Avance1-PIA_3_002.pdf)
