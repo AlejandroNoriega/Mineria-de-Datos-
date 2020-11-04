@@ -12,6 +12,7 @@
 [Resumen de las tecnicas de mineria de datos](https://github.com/AlejandroNoriega/Mineria-de-Datos-/blob/master/Resumen_MiguelNoriega-PATRONES%20SECUENCIALES_1798528.pdf) 
 
 [Mapa Mental 2](https://github.com/AlejandroNoriega/Mineria-de-Datos-/blob/master/MapaMental_2_1798528.pdf)
+# Fase 2
 
 [Analisis de Bases de Datos ](https://github.com/AlejandroNoriega/Mineria-de-Datos-/blob/master/An%C3%A1lisisBD_1798528.pdf)
 
