@@ -1,5 +1,6 @@
 # Mineria-de-Datos-
 
+# Fase-1
 [Mapa Mental 1](https://github.com/AlejandroNoriega/Mineria-de-Datos-/blob/master/MapaMental_1_%7B1798528%7D.pdf)
 
 [Presentacion Tecnicas Mineria](https://github.com/Valeriasolisa/MineriadeDatos/blob/master/Presentaci%C3%B3n_PatronesSecuenciales_002.pdf)
