@@ -17,3 +17,5 @@
 [Ejercicio Python Basico 1](https://github.com/AlejandroNoriega/Mineria-de-Datos-/blob/master/PythonBasico_1798528.ipynb)
 
 [Avance 1 PIA ](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/Avance1-PIA_3_002.pdf)
+
+[Preparacion de Datos ](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/Preparaci%C3%B3n%20de%20datos_3_002.ipynb)
