@@ -24,3 +24,6 @@
 
 
 [Visualizacion de Datos ](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/P2%20Visualizaci%C3%B3n%20de%20datos_03_002.ipynb)
+
+[AvancePIA_ll_002_3](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/AvancePIA_ll_002_3.ipynb)
+
