@@ -27,3 +27,4 @@
 
 [AvancePIA_ll_002_3](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/AvancePIA_ll_002_3.ipynb)
 
+[PIA_3_002](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/PIA_3_002.pdf)
